@@ -37,6 +37,9 @@ cd python-project-49
 
 [Хекслет](https://ru.hexlet.io/) — школа программирования: авторские программы обучения с практикой, поддержкой наставников и реальными проектами, которые остаются в резюме. Этот репозиторий — один из таких проектов.
 
+
+
+
 ## Демонстрация игры «Проверка на чётность»
 
 Запись установки и запуска игры Brain Even, включая успешное прохождение и проигрыш.
@@ -49,8 +52,17 @@ cd python-project-49
 
 [![Демонстрация Brain Calc](https://asciinema.org/a/gkQbTyim7dJtuqht.svg)](https://asciinema.org/a/gkQbTyim7dJtuqht)
 
+
 ## Демонстрация игры «НОД»
 
 Запись установки и запуска игры Brain GCD, включая успешное прохождение и проигрыш.
 
 [![Демонстрация Brain GCD](https://asciinema.org/a/Le9RtAb0Pz1hZzpw.svg)](https://asciinema.org/a/Le9RtAb0Pz1hZzpw)
+
+
+
+## Демонстрация игры «Арифметическая прогрессия»
+
+Запись установки и запуска игры Brain Progression, включая успешное прохождение и проигрыш.
+
+[![Демонстрация Brain Progression](https://asciinema.org/a/LpUJ3wiJgVe4GiLW.svg)](https://asciinema.org/a/LpUJ3wiJgVe4GiLW)
