@@ -66,3 +66,11 @@ cd python-project-49
 Запись установки и запуска игры Brain Progression, включая успешное прохождение и проигрыш.
 
 [![Демонстрация Brain Progression](https://asciinema.org/a/LpUJ3wiJgVe4GiLW.svg)](https://asciinema.org/a/LpUJ3wiJgVe4GiLW)
+
+
+
+## Демонстрация игры «Простое ли число?»
+
+Запись установки и запуска игры Brain Prime, включая успешное прохождение и проигрыш.
+
+[![Демонстрация Brain Prime](https://asciinema.org/a/N4zNsolFX4748FHZ.svg)](https://asciinema.org/a/N4zNsolFX4748FHZ)
