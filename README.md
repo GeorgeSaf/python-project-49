@@ -39,15 +39,15 @@ cd python-project-49
 
 
 
+
 ## Демонстрация игры «Проверка на чётность»
 
 Запись установки и запуска игры Brain Even, включая успешное прохождение и проигрыш.
 
 [![Демонстрация Brain Even](https://asciinema.org/a/lxaO1M5urTvegg4k.svg)](https://asciinema.org/a/lxaO1M5urTvegg4k)
 
-
 ## Демонстрация игры «Калькулятор»
 
 Запись установки и запуска игры Brain Calc, включая успешное прохождение и проигрыш.
 
-[![Демонстрация Brain Calc](https://asciinema.org/a/ID.svg)](https://asciinema.org/a/gkQbTyim7dJtuqht\n)
+[![Демонстрация Brain Calc](https://asciinema.org/a/gkQbTyim7dJtuqht.svg)](https://asciinema.org/a/gkQbTyim7dJtuqht)
